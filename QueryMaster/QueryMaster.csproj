@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Query,control Source/GoldSrc servers,Query master server,convert steam ids.</Description>
+    <Copyright>Copyright ©  2015</Copyright>
+    <Company />
+    <AssemblyVersion>3.1.0.0</AssemblyVersion>
+    <FileVersion>3.1.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="SharpZipLib" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
